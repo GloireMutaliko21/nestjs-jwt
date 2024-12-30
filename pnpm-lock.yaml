@@ -75,8 +75,8 @@ importers:
         specifier: ^0.3.20
         version: 0.3.20(mysql2@3.11.5)(ts-node@10.9.2(@types/node@20.14.9)(typescript@5.6.3))
       yup:
-        specifier: ^1.4.0
-        version: 1.4.0
+        specifier: ^1.6.1
+        version: 1.6.1
     devDependencies:
       '@commitlint/cli':
         specifier: ^19.5.0
@@ -3619,8 +3619,8 @@ packages:
     resolution: {integrity: sha512-9bnSc/HEW2uRy67wc+T8UwauLuPJVn28jb+GtJY16iiKWyvmYJRXVT4UamsAEGQfPohgr2q4Tq0sQbQlxTfi1g==}
     engines: {node: '>=12.20'}
 
-  yup@1.4.0:
-    resolution: {integrity: sha512-wPbgkJRCqIf+OHyiTBQoJiP5PFuAXaWiJK6AmYkzQAh5/c2K9hzSApBZG5wV9KoKSePF7sAxmNSvh/13YHkFDg==}
+  yup@1.6.1:
+    resolution: {integrity: sha512-JED8pB50qbA4FOkDol0bYF/p60qSEDQqBD0/qeIrUCG1KbPBIQ776fCUNb9ldbPcSTxA69g/47XTo4TqWiuXOA==}
 
 snapshots:
 
@@ -7529,7 +7529,7 @@ snapshots:
 
   yocto-queue@1.0.0: {}
 
-  yup@1.4.0:
+  yup@1.6.1:
     dependencies:
       property-expr: 2.0.6
       tiny-case: 1.0.3
